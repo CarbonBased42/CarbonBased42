@@ -1,2 +1,1 @@
-I'm Ian. My interests include programming, computer repair, robotics, game design, soldering, PC building, penetration testing, and more.
-
+I'm Ian. Some of my interests include programming, photography, electronics design, fencing, synthesizers, PC repair, and more.
